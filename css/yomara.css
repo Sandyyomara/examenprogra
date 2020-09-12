@@ -1,0 +1,23 @@
+# examenprogra
+*{
+    background-color: lightblue;
+    box-sizing: border-box; 
+  }
+  a{
+  	color: #000000;
+  	text-decoration: none;
+  }
+  a:hover{
+  	color: pink;
+  	background: #839
+  }
+  .redlink:hover{
+  	color: blue;
+  	background: pink;
+  }
+  .finalizar{
+  	text-align:left;
+  	font-size: 24px;
+  	margin: 20px 0 0 0;
+  	color: blue;
+  }
